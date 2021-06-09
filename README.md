@@ -126,5 +126,18 @@ U-Net is an architecture for Biomedical image segmentation. It consists of a con
 ### 2. Skin Lesion Classification:
 
 ![alt text](https://github.com/yash016/Skin_Lesion_Segmentation_and_Classification/blob/main/Images/Skin_Lesion_Classification_accuracy.png)   ![alt text](https://github.com/yash016/Skin_Lesion_Segmentation_and_Classification/blob/main/Images/Skin_Lesion_Classification_Loss.png)
+<br/>
+<br/>
+
+| Classes | Diseases |
+|----------- |------- |
+|0:     |   Actinic keratoses and intraepithelial carcinomae|
+|1:     |   basal cell carcinoma|
+|2:     |   benign keratosis-like lesions|
+|3:     |   dermatofibroma|
+|4:     |   melanocytic nevi|
+|5:     |   pyogenic granulomas and hemorrhage|
+|6:     |   melanoma|
+
 
 ![alt text](https://github.com/yash016/Skin_Lesion_Segmentation_and_Classification/blob/main/Images/Skin_Classifications.png)
