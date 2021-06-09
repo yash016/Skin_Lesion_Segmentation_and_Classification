@@ -53,7 +53,7 @@ U-Net is an architecture for Biomedical image segmentation. It consists of a con
 ### 2. Skin Lesion Classification:
 
 #### 1. Convolutional Neural Network
-![alt text](https://github.com/yash016/Skin_Lesion_Segmentation_and_Classification/blob/main/Images/Skin_Classification_model.png)
+![alt text](Images/CNN-Image-Classifier-Model-shows-an-overview-of-convolutional-neural-network.png)
 <br/>
 <br/>
 <br/>
